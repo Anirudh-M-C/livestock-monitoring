@@ -4,7 +4,7 @@ counting animals,
 checking whether the animal drinking,sleeping,
 forbidden animal alert
 
-Automated System For Monitoring Livestock Using Deep Learning | 2022
+Automated System For Monitoring Livestock Using Deep Learning | 2023
 
 In recent years, there have been many research studies applying computer vision
 techniques to livestock farming to promote the development of livestock intelligence. These
